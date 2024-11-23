@@ -54,9 +54,9 @@ Our project focuses on developing a *Flutter-based mobile application* designed 
 
 ## 🏎 WORKFLOW  
 <div style="display: flex; justify-content: space-between; gap: 1%;">  
-  <img src="https://github.com/user-attachments/assets/170adf75-5141-467c-886c-116b933a5be5" alt="Workflow 1" style="width: 32%;">  
-  <img src="https://github.com/user-attachments/assets/878d7f48-29cd-4b2f-8c68-2c30884bbccc" alt="Workflow 2" style="width: 32%;">  
-  <img src="https://github.com/user-attachments/assets/9190bd2c-7b1b-4cce-be3d-8dac0ef18821" alt="Workflow 3" style="width: 32%;">  
+  <img src="https://github.com/user-attachments/assets/1ee5d7d4-fd97-455d-ba07-460f30434f69" alt="Workflow 1" style="width: 32%;">  
+  <img src="https://github.com/user-attachments/assets/3ee93485-2bc3-44e7-a2e8-5b5f1f3feb1b" alt="Workflow 2" style="width: 32%;">  
+  <img src="https://github.com/user-attachments/assets/519f1686-7732-4e2b-a4fb-1bb977c5e562" alt="Workflow 3" style="width: 32%;">  
 </div>
 
 ### Key Highlights
@@ -128,7 +128,8 @@ Our project focuses on developing a *Flutter-based mobile application* designed 
 ## 📸 Screenshots and Visuals  
 
 ### Masking BY SAM Model
-![SAM Model Masking](https://github.com/user-attachments/assets/efbc3311-3a8f-414f-8f3b-6395a8ad8b3e)
+![SAM Model Masking](https://github.com/user-attachments/assets/20537903-b8db-42f8-9535-fed9e93ebb72)
+
 ---
 
 ## 📅 Future Enhancements
