@@ -1,17 +1,5 @@
 # 🦋 Butterfly Classification App (Species of Gujarat)
 
-## 👩‍🏫 Mentorship  
-- *Dr. Swapnil Lokhande*
-
----
-
-*Team Members*  
-- Smit Shah (202251122)  
-- Heet Shah (202251121)  
-- Parv Thummar (202251143)  
-- Tanuj Saini (202251141)
----
-
 ## 🔗 Links & Resources  
 
 ### *Deployed App Links*  
